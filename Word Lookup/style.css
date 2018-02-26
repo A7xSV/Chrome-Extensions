@@ -1,0 +1,15 @@
+body {
+    width: 400px;
+    min-height: 100px;
+    font-family: 'Slabo 27px', serif;
+}
+
+#header {
+    font-size: 16px;
+    opacity: 0.6;
+}
+
+#result {
+    margin-top: 6px;
+    font-size: 16px;
+}
